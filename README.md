@@ -7,7 +7,7 @@ A simple project that uses Docker and Docker Compose in a NodeJS application.
 Use this command to clone the repository.
 
 ```
-https://github.com/DjessykaCarvalho/docker-node.git
+https://github.com/DjessykaCarvalho/docker-nodejs.git
 ```
 
 ## Instalation
@@ -17,7 +17,7 @@ Recommends using the `npm` package manager to install project dependencies.
 Open the folder where the repository has clone.
 
 ```
-cd docker-node
+cd docker-nodejs
 ```
 
 Install the project dependencies running the command:
