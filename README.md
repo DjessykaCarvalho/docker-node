@@ -1,4 +1,4 @@
-# docker-node
+# docker-nodejs
 
 A simple project that uses Docker and Docker Compose in a NodeJS application.
 
